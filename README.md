@@ -1,16 +1,32 @@
-## Hi there 👋
+# RSCOE Mathematics Club
 
-<!--
-**RMC0121/RMC0121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**"APPLY & INNOVATE"**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+RSCOE Mathematics Club is a student-driven community at RSCOE dedicated to exploring the practical and innovative side of mathematics. We believe math isn't just theory — it's a tool for solving real-world problems, building projects, and sparking new ideas.
+
+Our slogan, **Apply & Innovate**, reflects our core mission: taking mathematical concepts beyond the classroom and applying them to technology, research, and creative problem-solving.
+
+## What We Do
+
+- Host workshops, sessions, and events on applied mathematics and problem-solving
+- Work on math-driven technical projects (data science, algorithms, modeling, etc.)
+- Encourage collaboration between math enthusiasts and tech innovators
+- Organize competitions, hackathons, and knowledge-sharing sessions
+
+## Contributing
+
+Members are welcome to contribute projects, resources, or event content. Fork the repository, make your changes, and submit a pull request.
+
+## Contact
+
+📧 Email: *[add club email]*
+📸 Instagram / LinkedIn: *[add handles]*
+🏫 RSCOE, Pune
+
+---
+
+*Apply & Innovate — RSCOE Mathematics Club*
